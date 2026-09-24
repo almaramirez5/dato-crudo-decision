@@ -1,0 +1,19 @@
+# Core Data Science
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter
+jupyter==1.0.0
+jupyter-notebook==7.0.0
+ipython==8.14.0
+
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
