@@ -425,7 +425,3 @@ MIT License - Libre para usar, modificar, compartir (ver LICENSE)
 ## Autora
 
 Alma Ramírez, creado para la prueba técnica: **Formador/a Data Analytics - Somos F5**
-
-**Enero 2026**
-
-*Último update: Sept 24, 2026*
